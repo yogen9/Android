@@ -1,0 +1,8 @@
+Android Wifi/.idea/
+*.iml
+Android Wifi/.gradle
+Android Wifi/local.properties
+Android Wifi/.DS_Store
+Android Wifi/build
+Android Wifi/captures
+Android Wifi/.externalNativeBuild
